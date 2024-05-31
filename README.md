@@ -1,6 +1,6 @@
-#Project Title : Heart_Disease_Classification
+# Heart_Disease_Classification
 
-Project Description : 
+# Project Description : 
 
 * Projects aims to classify the heart disease patient.
 * Project reads dataset as csv file, it performs feature selection and feature engineering on dataset to make suitable for prediction
